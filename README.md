@@ -9,7 +9,7 @@ In this project we have 2 tasks:
 We are regarding a matrix as a picture.
 
 Example:
-```html
+```
 Please choose one of the following options
 P/p - Picture Manipulation
 N/n - Number Game
@@ -41,6 +41,7 @@ This is the game in real life:
 ![image](https://raw.githubusercontent.com/aviasd/Matrices-of-Pointers/master/board.PNG)
 
 Example:
+
 For a 4\*4 board, this is the starting board:
  
 |    |    |    |    |
@@ -72,3 +73,18 @@ The game ends when the board is organized in an ascending order:
 |  5 |  6 |  7 |  8 |
 |  9 | 10 | 11 | 12 |
 | 13 | 14 | 15 |  0 |
+
+This is the way it looks like in the software:
+```
+13 4 8 9
+11 7 1 5
+6 2 10 12
+3 15 14 0
+Your step: 10
+Invalid step!
+Your step: 12
+13 4 8 9
+11 7 1 5
+6 2 10 0
+3 15 14 12
+```
