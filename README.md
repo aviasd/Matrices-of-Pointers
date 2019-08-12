@@ -40,7 +40,7 @@ This is the game in real life:
 
 ![image](https://raw.githubusercontent.com/aviasd/Matrices-of-Pointers/master/board.PNG)
 
-Example:
+#### Example:
 
 For a 4\*4 board, this is the starting board:
  
