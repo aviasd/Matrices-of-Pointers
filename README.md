@@ -38,7 +38,7 @@ On the board we have N\*M numbers from 0 to N\*M - 1. 0 is an empty square.
 
 This is the game in real life:
 
-![image](https://raw.githubusercontent.com/aviasd/Matrices-of-Pointers/master/board.PNG)
+![image](https://raw.githubusercontent.com/aviasd/Matrices-of-Pointers/master/README%20files/board.png)
 
 #### Example:
 
