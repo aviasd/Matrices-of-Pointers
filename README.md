@@ -8,7 +8,7 @@ In this project we have 2 tasks:
 ## Picture manipulation
 We are regarding a matrix as a picture.
 
-Example:
+#### Example:
 ```
 Please choose one of the following options
 P/p - Picture Manipulation
